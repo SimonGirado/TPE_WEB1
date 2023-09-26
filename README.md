@@ -6,3 +6,6 @@ Lautaro Tramazaygues - lautitrama03@hotmail.com
 
 Pagina web de peliculas.
 Esta pagina esta dirigida a una biblioteca de peliculas, haciendo que el usuario que la utilice pueda encontrar o buscar una pelicula con mayor facilidad
+
+DER:
+![Diagrama](DER.png)
